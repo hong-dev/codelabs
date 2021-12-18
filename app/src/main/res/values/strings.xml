@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Codelabs Task</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">0</string>
+    <string name="random_heading">Here is a random number between 0 and %d.</string>
+    <string name="toast_button_text">Toast</string>
+    <string name="random_button_text">Random</string>
+    <string name="toast_message">Plus 버튼 클릭 횟수: %d, Minus 버튼 클릭 횟수: %d</string>
+    <string name="plus_button_text">Plus</string>
+    <string name="minus_button_text">Minus</string>
+    <string name="init_button_text">INIT</string>
+    <string name="random_button_toast_message">1 이상의 값이 카운트 되어야 합니다</string>
+</resources>
